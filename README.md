@@ -70,6 +70,10 @@ python main.py --mode train --config /[path]/config/L3DSGNet.json
 python main.py --mode eval --config /[path]/config/L3DSGNet.json
 ```
 ---
+## 영상
+[![Demo](http://img.youtube.com/vi/WnNmLa7Ka58/0.jpg)](https://youtu.be/WnNmLa7Ka58)
+
+---
 ## Result
 ### 정량적 평가
 - ![performance_1.png](assets/performance_1.png)

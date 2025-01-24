@@ -172,7 +172,7 @@
       <workItem from="1691377353826" duration="14738000" />
       <workItem from="1694483105190" duration="80007000" />
       <workItem from="1737696893219" duration="3132000" />
-      <workItem from="1737703730926" duration="4044000" />
+      <workItem from="1737703730926" duration="4352000" />
     </task>
     <servers />
   </component>
@@ -191,11 +191,6 @@
           <url>file://$PROJECT_DIR$/src/model/SGFN_L3DSG/model.py</url>
           <line>357</line>
           <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_LIama_2.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/model/model_utils/network_priorKnowledge.py</url>
