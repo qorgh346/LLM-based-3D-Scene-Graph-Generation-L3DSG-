@@ -1,0 +1,13 @@
+Eval: 3d obj Acc@1  : 48.00842992623814
+Eval: 3d obj Acc@5  : 78.21792413066386
+Eval: 3d obj Acc@10 : 85.90126448893572
+Eval: 3d rel Acc@1  : 82.61553588987218
+Eval: 3d mean rel Acc@1  : 46.391609513543834
+Eval: 3d rel Acc@3  : 95.66371681415929
+Eval: 3d mean rel Acc@3  : 74.86388577613757
+Eval: 3d rel Acc@5  : 98.2841691248771
+Eval: 3d mean rel Acc@5  : 86.22772697991738
+Eval: 3d triplet Acc@50 : 52.67944936086529
+Eval: 3d triplet Acc@100 : 72.43756145526056
+Eval: 3d mean recall@50 : 65.96362380981445
+Eval: 3d mean recall@100 : 74.86834945678711
