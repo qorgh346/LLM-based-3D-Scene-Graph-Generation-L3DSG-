@@ -1,7 +1,6 @@
 # L3DSG: 대규모 언어 모델(LLM)의 사전 지식을 활용한 3차원 장면 그래프 생성  
 **L3DSG: 3D Scene Graph Generation using Prior Knowledge from Large Language Model(LLM)**
 
-**석사 학위 논문, 2024**
 - ###### [[Paper]](https://drive.google.com/file/d/196zuvJVMEIfqqRp0z1H7FOkmE792AZbH/view?usp=sharing)
 - ![model.png](assets/model.png)
 ---
