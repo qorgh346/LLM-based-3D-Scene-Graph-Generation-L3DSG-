@@ -71,7 +71,7 @@ python main.py --mode eval --config /[path]/config/L3DSGNet.json
 ```
 ---
 ## 영상
-[![Demo](http://img.youtube.com/vi/WnNmLa7Ka58/0.jpg)](https://youtu.be/WnNmLa7Ka58)
+[![Demo](assets/youtube_1.png)](https://youtu.be/WnNmLa7Ka58)
 
 ---
 ## Result
